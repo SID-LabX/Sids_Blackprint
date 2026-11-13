@@ -121,7 +121,7 @@ Inside each quality object (e.g., `qualities -> "Good"`), you get the summary in
 ---
 
 ### 3. Detailed Live Order Book Lists (`sell_orders` & `buy_orders`)
-This is the exclusive depth data that only exists in your JSON (and had to be omitted from the flat CSV).
+This is the exclusive depth data that only exists in your JSON (and had to be omitted from the flat CSV)!
 
 #### Inside `sell_orders` (Player listings waiting to be bought):
 ```json
