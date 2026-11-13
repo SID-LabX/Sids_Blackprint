@@ -1,3 +1,17 @@
+# Sid's Blackprint
+
+A brief description of what this project does.
+
+## Contributing
+
+We welcome contributions! Please review [CONTRIBUTING.md](CONTRIBUTING.md) and note that all contributors must sign our [Contributor License Agreement (CLA)](CLA.md) before pull requests can be merged.
+
+## License
+
+This project is licensed under the terms of the [PROPRIETARY SOURCE-AVAILABLE LICENSE](LICENSE).
+
+---
+
 ### Complete Glossary of Every Metric in Your Sheet csv.
 
 Here is what every column in summary means, how it is calculated, and how to use it for trading:
